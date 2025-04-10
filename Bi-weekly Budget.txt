@@ -1,0 +1,14 @@
+Bi-weekly Budget:
+
+Your initial balance of $10000.0 - $30.0 of thithing = $9970.0
+Your balance after thithing of $9970.0 - $15.00 of fasting = $9955.0
+Your balance after fasting of $9955.0 - $75.00 for food = $9880.0
+Your balance after food of $9880.0 - $25.00 for gas = $9855.0
+Your balance after gas of $9855.0 - $100.00 for savings = $9755.0
+Your balance after savings of $9755.0 - $15.00 for weekly dinning = $9740.0
+Your balance after dinning of $9740.0 - $20.00 for barbershop = $9720.0
+Your balance after barbershop of $9720.0 - $50.00 for personal items = $9670.0
+
+You may have the estimated remaining balance of $9670.0 by the end of the two weeks.
+
+Thank you for using the budget creator!
